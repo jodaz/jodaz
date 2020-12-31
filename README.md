@@ -7,6 +7,6 @@ I develop applications using Flask, Laravel and Node.js, with Postgres, MongoDB 
 ### You can find me on...
 
 - [Twitter](https://twitter.com/jodaz) the easiest way to find me on the web
-- [Instagram](https://twitter.com/jodaz) because not everything should be code
+- [Instagram](https://instagram.com/j0daz) because not everything should be code
 - [Linkedin](https://linkedin.com/jodaz) let's connect!
 
