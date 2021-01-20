@@ -2,7 +2,7 @@
 
 Hi!, my name is **Jesus Ordosgoitty**, a 98' born guy full-stack software developer from Venezuela 🇻🇪. I am doing freelance work for local companies and organizations but I do remote work 🏝️ for clients overseas. 
 
-I develop applications using Flask, Laravel and Node.js, with Postgres, MongoDB and React.js. I like to think of myself as a polyglot programmer 🌐 and I'm open to other technologies as well.
+I develop applications using Laravel and Node.js, with Postgres, MongoDB and React.js. I like to think of myself as a polyglot programmer 🌐 and I'm open to other technologies as well.
 
 ### You can find me on...
 
