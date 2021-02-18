@@ -10,3 +10,5 @@ I develop applications using Laravel and Node.js, with Postgres, MongoDB and Rea
 - [Instagram](https://instagram.com/j0daz) because not everything should be code
 - [Linkedin](https://linkedin.com/in/jodaz) let's connect! -professionally.
 
+Besides social networks, you can take a look at my [website](https://www.jodaz.xyz) and articles on my [blog](https://blog.jodaz.xyz) too.
+
