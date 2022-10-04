@@ -6,6 +6,7 @@ I develop applications using Laravel and Node.js, with Postgres, MongoDB and Rea
 
 ### You can find me on...
 
+- [Website](https://jodaz.xyz) Hey just take a look!..
 - [Twitter](https://twitter.com/jodaz_) the easiest way to contact me on the social web
 - [Instagram](https://instagram.com/jodaz_) because not everything should be code
 - [Linkedin](https://linkedin.com/in/jodaz) let's connect! -professionally.
