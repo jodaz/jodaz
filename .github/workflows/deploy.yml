@@ -30,4 +30,4 @@ jobs:
           SHOW_LANGUAGE_PER_REPO: "True"
           SHOW_SHORT_INFO: "False"
           LOCALE: "en"
-          SHOW_TIMEZONE: false
+          SHOW_TIMEZONE: "False"
