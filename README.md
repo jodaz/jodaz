@@ -15,7 +15,7 @@ Besides social networks, you can take a look at my [website](https://www.jodaz.x
 -->
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-68-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-74-blue)
 
 **I'm an Early 🐤** 
 
@@ -49,5 +49,5 @@ TypeScript               3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 02/12/2022 12:44:41 UTC
+ Last Updated on 03/12/2022 01:15:14 UTC
 <!--END_SECTION:waka-->
