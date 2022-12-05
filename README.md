@@ -11,6 +11,31 @@ I develop applications using Laravel and Node.js, with Postgres, MongoDB and Rea
 - [Linkedin](https://linkedin.com/in/jodaz) let's connect! -professionally.
 
 <!--START_SECTION:waka-->
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written--143%20Thousand%20lines%20of%20code-blue)
 
- Last Updated on 05/12/2022 02:04:23 UTC
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    152 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.73% 
+🌆 Daytime    383 commits    █████████░░░░░░░░░░░░░░░░   37.11% 
+🌃 Evening    308 commits    ███████░░░░░░░░░░░░░░░░░░   29.84% 
+🌙 Night      189 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.31%
+
+```
+
+
+**I Mostly Code in JavaScript** 
+
+```text
+JavaScript               41 repos            ██████████████░░░░░░░░░░░   58.57% 
+PHP                      9 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.86% 
+Python                   7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.0% 
+HTML                     4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   5.71% 
+TypeScript               3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   4.29%
+
+```
+
+
+
+ Last Updated on 05/12/2022 02:25:24 UTC
 <!--END_SECTION:waka-->
