@@ -11,7 +11,7 @@ I develop applications using Laravel and Node.js, with Postgres, MongoDB and Rea
 - [Linkedin](https://linkedin.com/in/jodaz) let's connect! -professionally.
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written--143%20Thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written--142%20Thousand%20lines%20of%20code-blue)
 
 **I'm an Early 🐤** 
 
@@ -37,5 +37,5 @@ TypeScript               3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 27/12/2022 01:24:09 UTC
+ Last Updated on 28/12/2022 01:23:33 UTC
 <!--END_SECTION:waka-->
