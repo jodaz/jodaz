@@ -11,15 +11,15 @@ I develop applications using Laravel and Node.js, with Postgres, MongoDB and Rea
 - [Linkedin](https://linkedin.com/in/jodaz) let's connect! -professionally.
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written--138%20Thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written--137%20Thousand%20lines%20of%20code-blue)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    121 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.98% 
-🌆 Daytime    355 commits    █████████░░░░░░░░░░░░░░░░   38.09% 
-🌃 Evening    286 commits    ███████░░░░░░░░░░░░░░░░░░   30.69% 
-🌙 Night      170 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.24%
+🌞 Morning    120 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.88% 
+🌆 Daytime    366 commits    █████████░░░░░░░░░░░░░░░░   39.27% 
+🌃 Evening    282 commits    ███████░░░░░░░░░░░░░░░░░░   30.26% 
+🌙 Night      164 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.6%
 
 ```
 
@@ -37,5 +37,5 @@ TypeScript               3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 25/01/2023 01:30:06 UTC
+ Last Updated on 26/01/2023 01:31:05 UTC
 <!--END_SECTION:waka-->
