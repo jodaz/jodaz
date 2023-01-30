@@ -10,9 +10,9 @@ I develop applications using Laravel and Node.js, with Postgres, MongoDB and Rea
 - [Instagram](https://instagram.com/jodaz_) because not everything should be code
 - [Linkedin](https://linkedin.com/in/jodaz) let's connect! -professionally.
 
-<p align="center">
-    [![GitHub Streak](https://streak-stats.demolab.com?user=jodaz&theme=tokyonight&mode=weekly)](https://git.io/streak-stats)
-</p>
+<div align="center">
+    [![GitHub Streak](https://streak-stats.demolab.com?user=jodaz&theme=tokyonight)](https://git.io/streak-stats)
+</div>
 
 <!--START_SECTION:waka-->
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written--143%20Thousand%20lines%20of%20code-blue)
