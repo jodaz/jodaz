@@ -14,15 +14,15 @@ I develop applications using Laravel and Node.js, with Postgres, MongoDB and Rea
     [![GitHub Streak](https://streak-stats.demolab.com?user=jodaz&theme=tokyonight)](https://git.io/streak-stats)
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-271%20Thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written--12%20Thousand%20lines%20of%20code-blue)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning      124 commits       ███░░░░░░░░░░░░░░░░░░░░░░   12.81 % 
-🌆 Daytime      381 commits       █████████░░░░░░░░░░░░░░░░   39.36 % 
-🌃 Evening      293 commits       ███████░░░░░░░░░░░░░░░░░░   30.27 % 
-🌙 Night        170 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.56 % 
+🌞 Morning      123 commits       ███░░░░░░░░░░░░░░░░░░░░░░   12.71 % 
+🌆 Daytime      382 commits       █████████░░░░░░░░░░░░░░░░   39.46 % 
+🌃 Evening      292 commits       ███████░░░░░░░░░░░░░░░░░░   30.17 % 
+🌙 Night        171 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.67 % 
 
 ```
 
@@ -40,5 +40,5 @@ TypeScript               3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 17/02/2023 01:25:42 UTC
+ Last Updated on 18/02/2023 01:21:15 UTC
 <!--END_SECTION:waka-->
