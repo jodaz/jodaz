@@ -14,7 +14,7 @@ I develop applications using Laravel and Node.js, with Postgres, MongoDB and Rea
     [![GitHub Streak](https://streak-stats.demolab.com?user=jodaz&theme=tokyonight)](https://git.io/streak-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C102%20hrs%2059%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C103%20hrs-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -59,17 +59,17 @@ Sunday                   4779 commits        ███░░░░░░░░�
 🕑︎ Time Zone: America/Caracas
 
 💬 Programming Languages: 
-JavaScript               20 hrs 36 mins      ████████████████████████░   97.65 % 
-JSON                     28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.24 % 
-Bash                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
+JavaScript               16 hrs 56 mins      ████████████████████████░   96.30 % 
+Bash                     23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.20 % 
+JSON                     15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.48 % 
 Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-VS Code                  21 hrs 6 mins       █████████████████████████   100.00 % 
+VS Code                  17 hrs 35 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    21 hrs 6 mins       █████████████████████████   100.00 % 
+Linux                    17 hrs 35 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -85,5 +85,5 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 18/07/2023 01:57:27 UTC
+ Last Updated on 19/07/2023 02:50:10 UTC
 <!--END_SECTION:waka-->
