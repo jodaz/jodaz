@@ -14,7 +14,7 @@ I develop applications using Laravel and Node.js, with Postgres, MongoDB and Rea
     [![GitHub Streak](https://streak-stats.demolab.com?user=jodaz&theme=tokyonight)](https://git.io/streak-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C287%20hrs%2038%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C292%20hrs%2023%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -59,17 +59,17 @@ Sunday                   3560 commits        ███░░░░░░░░�
 🕑︎ Time Zone: America/Caracas
 
 💬 Programming Languages: 
-JavaScript               7 hrs 12 mins       ██████████░░░░░░░░░░░░░░░   39.17 % 
-TypeScript               5 hrs 13 mins       ███████░░░░░░░░░░░░░░░░░░   28.43 % 
-Blade Template           1 hr 46 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.68 % 
-PHP                      1 hr 46 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.63 % 
-JSON                     1 hr 12 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.54 % 
+JavaScript               7 hrs 6 mins        ███████████░░░░░░░░░░░░░░   45.77 % 
+TypeScript               2 hrs 17 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.73 % 
+Blade Template           1 hr 46 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.46 % 
+PHP                      1 hr 46 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.41 % 
+JSON                     1 hr 31 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.82 % 
 
 🔥 Editors: 
-VS Code                  18 hrs 23 mins      █████████████████████████   100.00 % 
+VS Code                  15 hrs 31 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    18 hrs 23 mins      █████████████████████████   100.00 % 
+Linux                    15 hrs 31 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -85,5 +85,5 @@ Astro                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 25/10/2023 01:06:59 UTC
+ Last Updated on 26/10/2023 01:05:48 UTC
 <!--END_SECTION:waka-->
