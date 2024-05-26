@@ -14,6 +14,8 @@ I develop applications using Laravel and Node.js, with Postgres, MongoDB and Rea
     [![GitHub Streak](https://streak-stats.demolab.com?user=jodaz&theme=tokyonight)](https://git.io/streak-stats)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-7%2C597%20hrs%201%20min-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-83.3%20million%20lines%20of%20code-blue)
@@ -22,7 +24,7 @@ I develop applications using Laravel and Node.js, with Postgres, MongoDB and Rea
 
 > 📦 270.1 kB Used in GitHub's Storage 
  > 
-> 🏆 527 Contributions in the Year 2024
+> 🏆 528 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -30,6 +32,47 @@ I develop applications using Laravel and Node.js, with Postgres, MongoDB and Rea
  > 
 > 🔑 15 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                7424 commits        ██████░░░░░░░░░░░░░░░░░░░   24.79 % 
+🌆 Daytime                11282 commits       █████████░░░░░░░░░░░░░░░░   37.68 % 
+🌃 Evening                8198 commits        ███████░░░░░░░░░░░░░░░░░░   27.38 % 
+🌙 Night                  3040 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.15 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   4523 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.10 % 
+Tuesday                  4625 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.45 % 
+Wednesday                4709 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.73 % 
+Thursday                 4499 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.02 % 
+Friday                   4372 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.60 % 
+Saturday                 3464 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.57 % 
+Sunday                   3752 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.53 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/Caracas
+
+💬 Programming Languages: 
+TypeScript               14 hrs 30 mins      ███████████░░░░░░░░░░░░░░   45.94 % 
+JavaScript               11 hrs 33 mins      █████████░░░░░░░░░░░░░░░░   36.58 % 
+Bash                     2 hrs 37 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.29 % 
+Other                    2 hrs 6 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.66 % 
+Docker                   30 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
+
+🔥 Editors: 
+VS Code                  31 hrs 15 mins      █████████████████████████   98.97 % 
+Chrome                   19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.03 % 
+
+💻 Operating System: 
+Linux                    31 hrs 34 mins      █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -43,5 +86,5 @@ Astro                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 25/05/2024 01:12:17 UTC
+ Last Updated on 26/05/2024 01:20:51 UTC
 <!--END_SECTION:waka-->
