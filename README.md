@@ -14,7 +14,7 @@ I develop applications using Laravel and Node.js, with Postgres, MongoDB and Rea
     [![GitHub Streak](https://streak-stats.demolab.com?user=jodaz&theme=tokyonight)](https://git.io/streak-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-7%2C597%20hrs%201%20min-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-7%2C603%20hrs%203%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -23,8 +23,6 @@ I develop applications using Laravel and Node.js, with Postgres, MongoDB and Rea
 **🐱 My GitHub Data** 
 
 > 📦 270.1 kB Used in GitHub's Storage 
- > 
-> 🏆 528 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -59,18 +57,18 @@ Sunday                   3752 commits        ███░░░░░░░░�
 🕑︎ Time Zone: America/Caracas
 
 💬 Programming Languages: 
-TypeScript               14 hrs 30 mins      ███████████░░░░░░░░░░░░░░   45.94 % 
-JavaScript               11 hrs 33 mins      █████████░░░░░░░░░░░░░░░░   36.58 % 
-Bash                     2 hrs 37 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.29 % 
-Other                    2 hrs 6 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.66 % 
-Docker                   30 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
+JavaScript               14 hrs 40 mins      ████████████░░░░░░░░░░░░░   47.09 % 
+TypeScript               10 hrs 16 mins      ████████░░░░░░░░░░░░░░░░░   32.99 % 
+Other                    3 hrs 16 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.52 % 
+Bash                     2 hrs 38 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.50 % 
+HTML                     11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
 
 🔥 Editors: 
-VS Code                  31 hrs 15 mins      █████████████████████████   98.97 % 
-Chrome                   19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.03 % 
+VS Code                  30 hrs 49 mins      █████████████████████████   98.96 % 
+Chrome                   19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
 
 💻 Operating System: 
-Linux                    31 hrs 34 mins      █████████████████████████   100.00 % 
+Linux                    31 hrs 8 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -86,5 +84,5 @@ Astro                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 26/05/2024 01:20:51 UTC
+ Last Updated on 27/05/2024 01:14:08 UTC
 <!--END_SECTION:waka-->
