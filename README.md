@@ -14,17 +14,15 @@ I develop applications using Laravel and Node.js, with Postgres, MongoDB and Rea
     [![GitHub Streak](https://streak-stats.demolab.com?user=jodaz&theme=tokyonight)](https://git.io/streak-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-7%2C626%20hrs%2014%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-7%2C631%20hrs%2039%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-83.3%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-83.4%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 280.8 kB Used in GitHub's Storage 
- > 
-> 🏆 810 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -35,21 +33,21 @@ I develop applications using Laravel and Node.js, with Postgres, MongoDB and Rea
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                7495 commits        ██████░░░░░░░░░░░░░░░░░░░   24.46 % 
-🌆 Daytime                11674 commits       ██████████░░░░░░░░░░░░░░░   38.10 % 
-🌃 Evening                8322 commits        ███████░░░░░░░░░░░░░░░░░░   27.16 % 
-🌙 Night                  3152 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.29 % 
+🌞 Morning                7521 commits        ██████░░░░░░░░░░░░░░░░░░░   24.36 % 
+🌆 Daytime                11790 commits       ██████████░░░░░░░░░░░░░░░   38.19 % 
+🌃 Evening                8369 commits        ███████░░░░░░░░░░░░░░░░░░   27.11 % 
+🌙 Night                  3189 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.33 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   4618 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.07 % 
-Tuesday                  4712 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
-Wednesday                4822 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.74 % 
-Thursday                 4693 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.32 % 
-Friday                   4483 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.63 % 
-Saturday                 3517 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.48 % 
-Sunday                   3798 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.39 % 
+Monday                   4639 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.03 % 
+Tuesday                  4748 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
+Wednesday                4860 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.74 % 
+Thursday                 4749 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
+Friday                   4516 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.63 % 
+Saturday                 3536 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.45 % 
+Sunday                   3821 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.38 % 
 ```
 
 
@@ -85,5 +83,5 @@ HTML                     5 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 04/06/2024 01:17:58 UTC
+ Last Updated on 05/06/2024 01:14:27 UTC
 <!--END_SECTION:waka-->
