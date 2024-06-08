@@ -14,7 +14,7 @@ I develop applications using Laravel and Node.js, with Postgres, MongoDB and Rea
     [![GitHub Streak](https://streak-stats.demolab.com?user=jodaz&theme=tokyonight)](https://git.io/streak-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-7%2C632%20hrs%2039%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-7%2C635%20hrs%2037%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -23,8 +23,6 @@ I develop applications using Laravel and Node.js, with Postgres, MongoDB and Rea
 **🐱 My GitHub Data** 
 
 > 📦 280.8 kB Used in GitHub's Storage 
- > 
-> 🏆 839 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -59,17 +57,17 @@ Sunday                   3821 commits        ███░░░░░░░░�
 🕑︎ Time Zone: America/Caracas
 
 💬 Programming Languages: 
-TypeScript               8 hrs 6 mins        ████████████░░░░░░░░░░░░░   46.03 % 
-JavaScript               3 hrs 28 mins       █████░░░░░░░░░░░░░░░░░░░░   19.75 % 
-Other                    2 hrs 58 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.86 % 
-Bash                     1 hr 55 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.93 % 
-Markdown                 31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.95 % 
+TypeScript               5 hrs 49 mins       █████████░░░░░░░░░░░░░░░░   34.77 % 
+JavaScript               4 hrs 54 mins       ███████░░░░░░░░░░░░░░░░░░   29.31 % 
+Other                    2 hrs 59 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.88 % 
+Bash                     1 hr 53 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.31 % 
+Markdown                 30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.08 % 
 
 🔥 Editors: 
-VS Code                  17 hrs 36 mins      █████████████████████████   100.00 % 
+VS Code                  16 hrs 43 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    17 hrs 36 mins      █████████████████████████   100.00 % 
+Linux                    16 hrs 43 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -85,5 +83,5 @@ HTML                     5 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 07/06/2024 01:17:15 UTC
+ Last Updated on 08/06/2024 01:14:42 UTC
 <!--END_SECTION:waka-->
