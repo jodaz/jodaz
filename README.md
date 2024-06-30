@@ -14,9 +14,9 @@ I develop applications using Laravel and Node.js, with Postgres, MongoDB and Rea
     [![GitHub Streak](https://streak-stats.demolab.com?user=jodaz&theme=tokyonight)](https://git.io/streak-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-6%2C503%20hrs%2027%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-6%2C505%20hrs%2056%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-83.5%20million%20lines%20of%20code-blue)
 
@@ -59,17 +59,17 @@ Sunday                   4035 commits        ███░░░░░░░░�
 🕑︎ Time Zone: America/Caracas
 
 💬 Programming Languages: 
-JavaScript               18 hrs 40 mins      █████████████████████████   98.65 % 
-JSON                     14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+JavaScript               21 hrs              █████████████████████████   98.86 % 
+JSON                     12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
+Bash                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-VS Code                  18 hrs 55 mins      █████████████████████████   100.00 % 
+VS Code                  21 hrs 15 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    18 hrs 55 mins      █████████████████████████   100.00 % 
+Linux                    21 hrs 15 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -85,5 +85,5 @@ HTML                     5 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 29/06/2024 01:18:42 UTC
+ Last Updated on 30/06/2024 01:22:29 UTC
 <!--END_SECTION:waka-->
