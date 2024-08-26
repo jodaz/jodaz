@@ -14,7 +14,7 @@ I develop applications using Laravel and Node.js, with Postgres, MongoDB and Rea
     [![GitHub Streak](https://streak-stats.demolab.com?user=jodaz&theme=tokyonight)](https://git.io/streak-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-6%2C705%20hrs%2028%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-6%2C707%20hrs%201%20min-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -23,8 +23,6 @@ I develop applications using Laravel and Node.js, with Postgres, MongoDB and Rea
 **🐱 My GitHub Data** 
 
 > 📦 272.6 kB Used in GitHub's Storage 
- > 
-> 🏆 848 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -59,17 +57,15 @@ Sunday                   4262 commits        ███░░░░░░░░�
 🕑︎ Time Zone: America/Caracas
 
 💬 Programming Languages: 
-JavaScript               12 hrs 14 mins      ███████████████████████░░   93.46 % 
-Python                   30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 % 
-Other                    11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.46 % 
-JSON                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
-Bash                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
+JavaScript               12 hrs 47 mins      ████████████████████████░   94.83 % 
+Python                   30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 % 
+JSON                     11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.40 % 
 
 🔥 Editors: 
-VS Code                  13 hrs 5 mins       █████████████████████████   100.00 % 
+VS Code                  13 hrs 29 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    13 hrs 5 mins       █████████████████████████   100.00 % 
+Linux                    13 hrs 29 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -85,5 +81,5 @@ HTML                     5 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 25/08/2024 01:27:39 UTC
+ Last Updated on 26/08/2024 01:22:44 UTC
 <!--END_SECTION:waka-->
