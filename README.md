@@ -14,7 +14,7 @@ I develop applications using Laravel and Node.js, with Postgres, MongoDB and Rea
     [![GitHub Streak](https://streak-stats.demolab.com?user=jodaz&theme=tokyonight)](https://git.io/streak-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-7%2C468%20hrs%2059%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-7%2C472%20hrs%2016%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
@@ -23,6 +23,8 @@ I develop applications using Laravel and Node.js, with Postgres, MongoDB and Rea
 **🐱 My GitHub Data** 
 
 > 📦 282.4 kB Used in GitHub's Storage 
+ > 
+> 🏆 1,213 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -57,16 +59,15 @@ Sunday                   4360 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: America/Caracas
 
 💬 Programming Languages: 
-JavaScript               16 hrs 40 mins      ███████████████████████░░   93.72 % 
-Bash                     37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 % 
-Other                    29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
-TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+JavaScript               10 hrs 55 mins      ███████████████████████░░   90.71 % 
+Bash                     37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
+Other                    30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
 
 🔥 Editors: 
-VS Code                  17 hrs 47 mins      █████████████████████████   100.00 % 
+VS Code                  12 hrs 2 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    17 hrs 47 mins      █████████████████████████   100.00 % 
+Linux                    12 hrs 2 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -82,5 +83,5 @@ HTML                     5 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 08/11/2024 01:34:25 UTC
+ Last Updated on 09/11/2024 01:32:37 UTC
 <!--END_SECTION:waka-->
