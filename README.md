@@ -14,9 +14,9 @@ I develop applications using Laravel and Node.js, with Postgres, MongoDB and Rea
     [![GitHub Streak](https://streak-stats.demolab.com?user=jodaz&theme=tokyonight)](https://git.io/streak-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-7%2C544%20hrs%2019%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-7%2C544%20hrs%2040%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-28-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-82.2%20million%20lines%20of%20code-blue)
 
@@ -47,17 +47,17 @@ Sunday                   4171 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: America/Caracas
 
 💬 Programming Languages: 
-JavaScript               23 hrs 2 mins       ██████████████████████░░░   86.54 % 
-Python                   2 hrs 17 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.62 % 
-XML                      22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
-TypeScript               20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.26 % 
-Image (svg)              16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.03 % 
+JavaScript               16 hrs 7 mins       █████████████████████░░░░   83.24 % 
+Python                   2 hrs 17 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.85 % 
+XML                      22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
+TypeScript               16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.46 % 
+Other                    15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.35 % 
 
 🔥 Editors: 
-VS Code                  26 hrs 37 mins      █████████████████████████   100.00 % 
+VS Code                  19 hrs 21 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    26 hrs 37 mins      █████████████████████████   100.00 % 
+Linux                    19 hrs 21 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -73,5 +73,5 @@ HTML                     5 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 24/11/2024 01:47:15 UTC
+ Last Updated on 25/11/2024 01:36:29 UTC
 <!--END_SECTION:waka-->
