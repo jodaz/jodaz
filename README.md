@@ -14,11 +14,51 @@ I develop applications using Laravel and Node.js, with Postgres, MongoDB and Rea
     [![GitHub Streak](https://streak-stats.demolab.com?user=jodaz&theme=tokyonight)](https://git.io/streak-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-7%2C190%20hrs%2042%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-7%2C196%20hrs%201%20min-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-83.0%20million%20lines%20of%20code-blue)
+
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                7702 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.51 % 
+🌆 Daytime                22429 commits       ████████████░░░░░░░░░░░░░   48.09 % 
+🌃 Evening                11354 commits       ██████░░░░░░░░░░░░░░░░░░░   24.34 % 
+🌙 Night                  5158 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.06 % 
+```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday                   8049 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.26 % 
+Tuesday                  6523 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.98 % 
+Wednesday                7294 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.64 % 
+Thursday                 7590 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.27 % 
+Friday                   8097 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.36 % 
+Saturday                 5019 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.76 % 
+Sunday                   4071 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.73 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/Caracas
+
+💬 Programming Languages: 
+JavaScript               26 hrs 47 mins      █████████████████████████   98.86 % 
+TypeScript               11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
+JSON                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+
+🔥 Editors: 
+VS Code                  27 hrs 6 mins       █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Linux                    27 hrs 6 mins       █████████████████████████   100.00 % 
+```
 
 **I Mostly Code in JavaScript** 
 
@@ -33,5 +73,5 @@ HTML                     5 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 01/03/2025 01:47:02 UTC
+ Last Updated on 02/03/2025 01:42:02 UTC
 <!--END_SECTION:waka-->
