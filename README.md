@@ -14,7 +14,7 @@ I develop applications using Laravel and Node.js, with Postgres, MongoDB and Rea
     [![GitHub Streak](https://streak-stats.demolab.com?user=jodaz&theme=tokyonight)](https://git.io/streak-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-6%2C446%20hrs%2024%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-6%2C451%20hrs%207%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -47,17 +47,17 @@ Sunday                   4453 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: America/Caracas
 
 💬 Programming Languages: 
-TypeScript               27 hrs 20 mins      ███████████████████░░░░░░   75.47 % 
-JavaScript               4 hrs 34 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.62 % 
-Caddyfile                1 hr 52 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.15 % 
-Other                    54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.49 % 
-JSON                     34 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.57 % 
+TypeScript               23 hrs 44 mins      ██████████████████░░░░░░░   71.01 % 
+Caddyfile                5 hrs 7 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.32 % 
+JavaScript               2 hrs 4 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.22 % 
+Other                    59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.99 % 
+Docker                   33 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.66 % 
 
 🔥 Editors: 
-VS Code                  36 hrs 13 mins      █████████████████████████   100.00 % 
+VS Code                  33 hrs 26 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    36 hrs 13 mins      █████████████████████████   100.00 % 
+Linux                    33 hrs 26 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -73,5 +73,5 @@ HTML                     5 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 18/05/2025 00:36:54 UTC
+ Last Updated on 19/05/2025 00:37:08 UTC
 <!--END_SECTION:waka-->
