@@ -14,53 +14,11 @@ I develop applications using Laravel and Node.js, with Postgres, MongoDB and Rea
     [![GitHub Streak](https://streak-stats.demolab.com?user=jodaz&theme=tokyonight)](https://git.io/streak-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-10%2C136%20hrs%2057%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-11%2C247%20hrs%2015%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-83.8%20million%20lines%20of%20code-blue)
-
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                8143 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.68 % 
-🌆 Daytime                25215 commits       ████████████░░░░░░░░░░░░░   48.55 % 
-🌃 Evening                12502 commits       ██████░░░░░░░░░░░░░░░░░░░   24.07 % 
-🌙 Night                  6077 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.70 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   9237 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.79 % 
-Tuesday                  7526 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.49 % 
-Wednesday                8213 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.81 % 
-Thursday                 8220 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.83 % 
-Friday                   9193 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.70 % 
-Saturday                 5248 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.10 % 
-Sunday                   4300 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.28 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: America/Caracas
-
-💬 Programming Languages: 
-TypeScript               9 hrs 1 min         ██████████████████░░░░░░░   72.57 % 
-Other                    2 hrs 6 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.93 % 
-Docker                   45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.15 % 
-Bash                     23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.15 % 
-Caddyfile                4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
-
-🔥 Editors: 
-VS Code                  10 hrs 52 mins      ██████████████████████░░░   87.41 % 
-Google Calendar          1 hr 34 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.59 % 
-
-💻 Operating System: 
-Linux                    10 hrs 52 mins      ██████████████████████░░░   87.41 % 
-Unknown OS               1 hr 34 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.59 % 
-```
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-84.0%20million%20lines%20of%20code-blue)
 
 **I Mostly Code in JavaScript** 
 
@@ -75,5 +33,5 @@ HTML                     5 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 11/07/2025 00:36:14 UTC
+ Last Updated on 12/07/2025 00:35:23 UTC
 <!--END_SECTION:waka-->
