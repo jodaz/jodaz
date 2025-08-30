@@ -14,8 +14,6 @@ I develop applications using Laravel and Node.js, with Postgres, MongoDB and Rea
     [![GitHub Streak](https://streak-stats.demolab.com?user=jodaz&theme=tokyonight)](https://git.io/streak-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-11%2C313%20hrs%2053%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-85.6%20million%20lines%20of%20code-blue)
@@ -33,5 +31,5 @@ HTML                     5 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 29/08/2025 00:35:42 UTC
+ Last Updated on 30/08/2025 00:33:29 UTC
 <!--END_SECTION:waka-->
