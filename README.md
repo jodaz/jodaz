@@ -14,9 +14,48 @@ I develop applications using Laravel and Node.js, with Postgres, MongoDB and Rea
     [![GitHub Streak](https://streak-stats.demolab.com?user=jodaz&theme=tokyonight)](https://git.io/streak-stats)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-11%2C418%20hrs%2020%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-82.4%20million%20lines%20of%20code-blue)
+
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                7580 commits        ██████░░░░░░░░░░░░░░░░░░░   22.13 % 
+🌆 Daytime                13948 commits       ██████████░░░░░░░░░░░░░░░   40.73 % 
+🌃 Evening                9111 commits        ███████░░░░░░░░░░░░░░░░░░   26.60 % 
+🌙 Night                  3607 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   5166 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.08 % 
+Tuesday                  5765 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.83 % 
+Wednesday                5815 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.98 % 
+Thursday                 5042 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.72 % 
+Friday                   5247 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.32 % 
+Saturday                 3435 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.03 % 
+Sunday                   3776 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.03 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/Caracas
+
+💬 Programming Languages: 
+TypeScript               3 hrs 20 mins       █████████████████████████   99.75 % 
+CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
+
+🔥 Editors: 
+VS Code                  3 hrs 20 mins       █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Linux                    3 hrs 20 mins       █████████████████████████   100.00 % 
+```
 
 **I Mostly Code in JavaScript** 
 
@@ -31,5 +70,5 @@ HTML                     5 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 04/11/2025 00:34:51 UTC
+ Last Updated on 05/11/2025 00:36:00 UTC
 <!--END_SECTION:waka-->
