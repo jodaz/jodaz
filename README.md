@@ -1,6 +1,6 @@
 ![hackers movie reference](./disconnected.jpg)
 
-Hi!, I'm [**Jesus Ordosgoitty**](https://jodaz.xyz), with over five years of experience building innovative products for global startups. I specialize in React and Node.js , focusing on creating seamless, user-centered digital experiences. I’ve also led IT teams and love helping remote teams grow through high-quality code.
+👋 Hi!, I'm [**Jesus Ordosgoitty**](https://jodaz.xyz), with over five years of experience building innovative products for global startups. I specialize in React and Node.js , focusing on creating seamless, user-centered digital experiences. I’ve also led IT teams and love helping remote teams grow through high-quality code.
 
 🚀 Right now, I’m focused on architecting scalable web solutions and pushing the boundaries of AI Engineering by building intelligent UI components and implementing generative UX logic. I primarily develop and scale these modern solutions using **React**, **Node**, and **AWS**.
 
