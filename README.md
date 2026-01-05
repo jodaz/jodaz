@@ -10,8 +10,6 @@
 - [Linkedin](https://linkedin.com/in/jodaz) let's connect! -professionally.
 
 
-    [![GitHub Streak](https://streak-stats.demolab.com?user=jodaz&theme=tokyonight)](https://git.io/streak-stats)
-
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
