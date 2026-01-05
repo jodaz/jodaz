@@ -1,12 +1,11 @@
 ![hackers movie reference](./disconnected.jpg)
 
-Hi!, my name is [**Jesus Ordosgoitty**](https://jodaz.dev), a 98' born guy full-stack software developer from Venezuela 🇻🇪. I am doing freelance work for local companies and organizations but I do remote work 🏝️ for clients overseas. 
+Hi!, I'm [**Jesus Ordosgoitty**](https://jodaz.xyz), with over five years of experience building innovative products for global startups. I specialize in React and Node.js , focusing on creating seamless, user-centered digital experiences. I’ve also led IT teams and love helping remote teams grow through high-quality code.
 
-I develop applications using Laravel and Node.js, with Postgres, MongoDB and React.js. I like to think of myself as a polyglot programmer 🌐 and I'm open to other technologies as well.
+🚀 Right now, I’m focused on architecting scalable web solutions and pushing the boundaries of AI Engineering by building intelligent UI components and implementing generative UX logic. I primarily develop and scale these modern solutions using **React**, **Node**, and **AWS**.
 
 ### You can find me on...
 
-- [Twitter](https://twitter.com/jodaz_) the easiest way to contact me on the social web
 - [Instagram](https://instagram.com/jodaz_) because not everything should be code
 - [Linkedin](https://linkedin.com/in/jodaz) let's connect! -professionally.
 
