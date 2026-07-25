@@ -13,20 +13,20 @@
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-94.32%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-92.25%20million%20lines%20of%20code-blue?style=flat)
 
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               47 repos            █████████░░░░░░░░░░░░░░░░   35.07 % 
-TypeScript               45 repos            ████████░░░░░░░░░░░░░░░░░   33.58 % 
-Python                   11 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   08.21 % 
-Astro                    2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
-Shell                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
+JavaScript               47 repos            █████████░░░░░░░░░░░░░░░░   34.81 % 
+TypeScript               46 repos            █████████░░░░░░░░░░░░░░░░   34.07 % 
+Python                   11 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   08.15 % 
+Astro                    2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.48 % 
+Shell                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
 ```
 
 
 
 
- Last Updated on 24/07/2026 03:09:41 UTC
+ Last Updated on 25/07/2026 03:07:51 UTC
 <!--END_SECTION:waka-->
