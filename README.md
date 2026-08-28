@@ -46,41 +46,41 @@ Sunday                   5651 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: America/Caracas
 
 💬 Programming Languages: 
-Markdown                 9 hrs 11 mins       ██████████░░░░░░░░░░░░░░░   41.67 % 
-Other                    5 hrs 12 mins       ██████░░░░░░░░░░░░░░░░░░░   23.64 % 
-TypeScript               4 hrs 34 mins       █████░░░░░░░░░░░░░░░░░░░░   20.78 % 
-JSON                     1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 % 
-CSS                      38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.92 % 
+Markdown                 7 hrs 16 mins       ███████████░░░░░░░░░░░░░░   43.89 % 
+TypeScript               3 hrs 56 mins       ██████░░░░░░░░░░░░░░░░░░░   23.76 % 
+Other                    2 hrs 19 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.02 % 
+JSON                     1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   06.04 % 
+CSS                      38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 % 
 
 🔥 Editors: 
-Claude Code              20 hrs 49 mins      ████████████████████████░   94.48 % 
-Zed                      1 hr 13 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.52 % 
+Claude Code              15 hrs 25 mins      ███████████████████████░░   93.00 % 
+Zed                      1 hr 9 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.00 % 
 
 💻 Operating System: 
-Linux                    22 hrs 2 mins       █████████████████████████   100.00 % 
+Linux                    16 hrs 35 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 21 hrs 32 mins (97.67%)
+⏱ AI Coding Time: 16 hrs 5 mins (97.02%)
 
-✍️ 8,473 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 7,417 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 8,094,138 Input Tokens, 1,468,283 Output Tokens
+🔤 6,965,895 Input Tokens, 1,275,902 Output Tokens
 
-💵 $217.04 Estimated AI Cost This Week
+💵 $198.42 Estimated AI Cost This Week
 
-🧠 41 AI Sessions, 290 AI Prompts
+🧠 30 AI Sessions, 228 AI Prompts
 
-Sonnet                   6,546 lines         ██████████████████░░░░░░░   70.77 % 
-Fable                    2,704 lines         ███████░░░░░░░░░░░░░░░░░░   29.23 % 
+Sonnet                   6,429 lines         ███████████████████░░░░░░   75.73 % 
+Fable                    2,060 lines         ██████░░░░░░░░░░░░░░░░░░░   24.27 % 
 Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 786 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
+📄 Detailed Prompter — average 603 characters per prompt
+🔁 Iterative Prompter — average 8 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -97,5 +97,5 @@ Shell                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 27/08/2026 08:19:44 UTC
+ Last Updated on 28/08/2026 10:27:45 UTC
 <!--END_SECTION:waka-->
