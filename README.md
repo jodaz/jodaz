@@ -46,41 +46,41 @@ Sunday                   4643 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: America/Caracas
 
 💬 Programming Languages: 
-Markdown                 7 hrs 46 mins       ████████████░░░░░░░░░░░░░   47.91 % 
-Other                    7 hrs 34 mins       ████████████░░░░░░░░░░░░░   46.67 % 
-TypeScript               31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.20 % 
-Git                      17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
-HTML                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
+Other                    5 hrs 41 mins       ██████████████░░░░░░░░░░░   54.97 % 
+Markdown                 4 hrs 16 mins       ██████████░░░░░░░░░░░░░░░   41.33 % 
+Git                      17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.75 % 
+HTML                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
+TypeScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
 
 🔥 Editors: 
-Claude Code              14 hrs 28 mins      ██████████████████████░░░   89.22 % 
-Google Calendar          1 hr 45 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.78 % 
+Claude Code              8 hrs 36 mins       █████████████████████░░░░   83.10 % 
+Google Calendar          1 hr 45 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.90 % 
 
 💻 Operating System: 
-Linux                    14 hrs 28 mins      ██████████████████████░░░   89.22 % 
-Unknown OS               1 hr 45 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.78 % 
+Linux                    8 hrs 36 mins       █████████████████████░░░░   83.10 % 
+Unknown OS               1 hr 45 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.90 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 14 hrs 28 mins (89.22%)
+⏱ AI Coding Time: 8 hrs 36 mins (83.1%)
 
-✍️ 710 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 572 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 2,222,450 Input Tokens, 389,210 Output Tokens
+🔤 689,123 Input Tokens, 144,431 Output Tokens
 
-💵 $26.99 Estimated AI Cost This Week
+💵 $13.99 Estimated AI Cost This Week
 
-🧠 43 AI Sessions, 88 AI Prompts
+🧠 20 AI Sessions, 64 AI Prompts
 
-Opus                     710 lines           █████████████████████████   100.00 % 
+Opus                     587 lines           █████████████████████████   100.00 % 
 Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 1,317 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
+📝 Concise Prompter — average 295 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -97,5 +97,5 @@ Swift                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 06/10/2026 05:34:22 UTC
+ Last Updated on 07/10/2026 05:03:26 UTC
 <!--END_SECTION:waka-->
