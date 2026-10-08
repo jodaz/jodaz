@@ -46,41 +46,39 @@ Sunday                   4643 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: America/Caracas
 
 💬 Programming Languages: 
-Other                    5 hrs 41 mins       ██████████████░░░░░░░░░░░   54.97 % 
-Markdown                 4 hrs 16 mins       ██████████░░░░░░░░░░░░░░░   41.33 % 
-Git                      17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.75 % 
-HTML                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
-TypeScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
+Other                    4 hrs 55 mins       ██████████████████░░░░░░░   72.77 % 
+Markdown                 1 hr 46 mins        ███████░░░░░░░░░░░░░░░░░░   26.14 % 
+HTML                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
 
 🔥 Editors: 
-Claude Code              8 hrs 36 mins       █████████████████████░░░░   83.10 % 
-Google Calendar          1 hr 45 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.90 % 
+Claude Code              5 hrs               ███████████████████░░░░░░   74.12 % 
+Google Calendar          1 hr 45 mins        ██████░░░░░░░░░░░░░░░░░░░   25.88 % 
 
 💻 Operating System: 
-Linux                    8 hrs 36 mins       █████████████████████░░░░   83.10 % 
-Unknown OS               1 hr 45 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.90 % 
+Linux                    5 hrs               ███████████████████░░░░░░   74.12 % 
+Unknown OS               1 hr 45 mins        ██████░░░░░░░░░░░░░░░░░░░   25.88 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 8 hrs 36 mins (83.1%)
+⏱ AI Coding Time: 5 hrs (74.12%)
 
-✍️ 572 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 521 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 689,123 Input Tokens, 144,431 Output Tokens
+🔤 389,565 Input Tokens, 76,023 Output Tokens
 
-💵 $13.99 Estimated AI Cost This Week
+💵 $10.86 Estimated AI Cost This Week
 
-🧠 20 AI Sessions, 64 AI Prompts
+🧠 8 AI Sessions, 29 AI Prompts
 
-Opus                     587 lines           █████████████████████████   100.00 % 
+Opus                     536 lines           █████████████████████████   100.00 % 
 Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 295 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
+📝 Concise Prompter — average 364 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -97,5 +95,5 @@ Swift                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 07/10/2026 05:03:26 UTC
+ Last Updated on 08/10/2026 05:12:18 UTC
 <!--END_SECTION:waka-->
